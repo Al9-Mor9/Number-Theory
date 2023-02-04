@@ -15,7 +15,7 @@
 
 ### :evergreen_tree: 난이도 (中)
 
-+ C - (G4) [Treak or Treat 3855](https://www.acmicpc.net/problem/3855) (:star: :heart:)
++ C - (G4) [Treak or Treat 3855](https://www.acmicpc.net/problem/3855) (:heart:)
 + E - (S1) [골드바흐의 추측 6588](https://www.acmicpc.net/problem/6588) (:heart:)
 + I - (S1) [최대공약수 2824](https://www.acmicpc.net/problem/2824) 
 + J - (S2) [보이는 점의 개수 2725](https://www.acmicpc.net/problem/2725) (:heart:)
