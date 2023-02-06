@@ -1,5 +1,5 @@
 /*
-  코드가 매우 매우 매우 더러움에 
+  코드가 매우 매우 매우 더러움에 주의 
 */
 #include <iostream>
 #include <vector>
