@@ -18,7 +18,7 @@
 + C - (G4) [Treak or Treat 3855](https://www.acmicpc.net/problem/3855) 
 + E - (S1) [골드바흐의 추측 6588](https://www.acmicpc.net/problem/6588) (:heart:)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/6588/6588_P.cpp)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/6588/6588_H.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/6588/6588_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/6588/6588_K.py)
 + I - (S1) [최대공약수 2824](https://www.acmicpc.net/problem/2824)  (:heart:)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2824/2824_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2824/2824_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2824/2824_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2824/2824_H.py)
-+ J - (S2) [보이는 점의 개수 2725](https://www.acmicpc.net/problem/2725) (:heart:)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2725/2725_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2725/2725_H.py)
++ J - (S2) [보이는 점의 개수 2725](https://www.acmicpc.net/problem/2725) (:heart:)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2725/2725_L.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/2725/2725_H.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2725/2725_K.py)
 + N - (S1) [소수를 분수로 5376](https://www.acmicpc.net/problem/5376)
 
 ### :fire: 난이도 (上)
