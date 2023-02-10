@@ -24,5 +24,5 @@
 ### :fire: 난이도 (上)
 
 + B - (G2) [최대공약수 하나 빼기 14476](https://www.acmicpc.net/problem/14476) (:heart:)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/14476/14476_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/14476/14476_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/14476/14476_K.py)
-+ F - (G3) [소수의 연속합 1644](https://www.acmicpc.net/problem/1644) 
++ F - (G3) [소수의 연속합 1644](https://www.acmicpc.net/problem/1644)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1644/1644_P.cpp)
 + M - (G3) [수학은 너무 쉬워 2904](https://www.acmicpc.net/problem/2904) (:heart:)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2904/2904_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2904/2904_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2904/2904_K.py)
