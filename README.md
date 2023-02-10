@@ -5,7 +5,7 @@
 
 ### :watermelon: 난이도 (下)
 
-+ A - (S3) [분수 합 1735](https://www.acmicpc.net/problem/1735)
++ A - (S3) [분수 합 1735](https://www.acmicpc.net/problem/1735)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1735/1735_P.cpp)
 + D - (S4) [에라토스테네스의 체 2960](https://www.acmicpc.net/problem/2960) (:star:)
 + G - (B1) [소인수분해 11653](https://www.acmicpc.net/problem/11653) (:star:)
 + H - (B3) [암호제작 1837](https://www.acmicpc.net/problem/1837) 
