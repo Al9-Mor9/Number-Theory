@@ -11,6 +11,7 @@ for i in n:
     _n.append(i)
     s += i
 
+# 
 if s % 3 or '0' not in n:
     print(-1)
     exit()
