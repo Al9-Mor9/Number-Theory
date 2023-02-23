@@ -10,7 +10,7 @@
 + G - (B1) [소인수분해 11653](https://www.acmicpc.net/problem/11653) (:star:)
 + H - (B3) [암호제작 1837](https://www.acmicpc.net/problem/1837) 
 + K - (S3) [1 4375](https://www.acmicpc.net/problem/4375)(:heart:)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/4375/4375_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/4375/4375_L.py)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/4375/4375_S.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/4375/4375_H.py)
-+ L - (S4) [30 10610](https://www.acmicpc.net/problem/10610)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/10610/10610_S.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/10610/10610_K.py)
++ L - (S4) [30 10610](https://www.acmicpc.net/problem/10610)[<img src = "https://github.com/suchshin.png" width="25" height="25">](./Code/10610/10610_S.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/10610/10610_K.py)[<img src = "https://github.com/wocjs.png" width="25" height="25">](./Code/10610/10610_H.py)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/10610/10610_P.cpp)
 
 
 ### :evergreen_tree: 난이도 (中)
