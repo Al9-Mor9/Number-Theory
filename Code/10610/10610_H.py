@@ -11,7 +11,7 @@ for i in n:
     _n.append(i)
     s += i
 
-if not s // 3 or '0' not in n:
+if s % 3 or '0' not in n:
     print(-1)
     exit()
 n = sorted(n, reverse=True)
