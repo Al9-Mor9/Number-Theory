@@ -26,3 +26,6 @@
 + C - (P5) [캔디 분배 3955](https://www.acmicpc.net/problem/3955) (:heart:)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/3955/3955_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/3955/3955_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/3955/3955_K.py)
 + F - (G3) [소수의 연속합 1644](https://www.acmicpc.net/problem/1644)(:heart:)[<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/1644/1644_P.cpp)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/1644/1644_K.py)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/1644/1644_L.py)
 + M - (G3) [수학은 너무 쉬워 2904](https://www.acmicpc.net/problem/2904) [<img src = "https://github.com/Frog-Slayer.png" width="25" height="25">](./Code/2904/2904_P.cpp)[<img src = "https://github.com/sulogc.png" width="25" height="25">](./Code/2904/2904_L.py)[<img src = "https://github.com/Haaarimmm.png" width="25" height="25">](./Code/2904/2904_K.py)
+
+### 추가 문제
++ - (G1) [GCD(n,k)= 1 11689](https://www.acmicpc.net/problem/11689)
